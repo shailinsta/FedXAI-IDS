@@ -1,0 +1,5 @@
+﻿Dataset,5 clients,10 clients,20 clients
+CIC-IoT2023,0.9921,0.9912,0.9902
+Edge-IIoTset,0.9811,0.9857,0.9828
+UNSW-NB15,0.8622,0.8526,0.8538
+Custom-Attack-Suite,0.8152,0.8135,0.8470

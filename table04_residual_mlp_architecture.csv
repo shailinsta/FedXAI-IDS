@@ -1,0 +1,6 @@
+﻿Layer,Units,Activation / regularisation,Purpose
+Input,d,—,Scaled feature vector
+Linear,256,"ReLU, LayerNorm, dropout = 0.3",First hidden layer
+Linear,128,ReLU with residual addition,Second hidden layer and shortcut
+Linear,64,"ReLU, dropout = 0.2",Third hidden layer
+Output,1,Sigmoid probability derived from logits,Binary classification

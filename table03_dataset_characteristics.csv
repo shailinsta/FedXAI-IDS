@@ -1,0 +1,5 @@
+﻿Dataset,Training samples,Test samples,Features,Attack rate (train / test)
+CIC-IoT2023,461 245,115 311,46,0.9764 / 0.9764
+Edge-IIoTset,126 241,31 559,39,0.8460 / 0.8460
+UNSW-NB15,175 341,82 332,31,0.6806 / 0.5506
+Custom-Attack-Suite,7 968 739,1 992 184,32,0.0292 / 0.0292

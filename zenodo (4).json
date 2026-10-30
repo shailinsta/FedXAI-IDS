@@ -1,0 +1,24 @@
+{
+  "title": "FedXAI-IDS: Privacy-Preserving Federated Learning Framework for Collaborative Intrusion Detection in Distributed IIoT Environments",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "access_right": "open",
+  "description": "<p>FedXAI-IDS is a federated intrusion-detection framework based on a residual MLP that studies collaborative learning under IID and non-IID (Dirichlet) client data distributions. It is evaluated on four datasets (CIC-IoT2023, Edge-IIoTset, UNSW-NB15 and Custom-Attack-Suite) and compares centralised training, FedAvg (IID and non-IID) and FedProx (non-IID), with Gradient&times;Input feature attribution. This release contains the GPU pipeline script, the Results (Section 4) tables as CSV and Excel files, and the Results figures (Figs. 3&ndash;7).</p>",
+  "creators": [
+    {"name": "Mishra, Shailendra", "affiliation": "Department of Computer Engineering, College of Computer and Information Sciences, Majmaah University, Al Majmaah 11952, Saudi Arabia"},
+    {"name": "Alnoban, Rayyanah Khalaf", "affiliation": "Department of Information Technology, College of Computer and Information Sciences, Majmaah University, Al Majmaah 11952, Saudi Arabia"},
+    {"name": "Alodhyani, Fahad", "affiliation": "Department of Information Technology, College of Computer and Information Sciences, Majmaah University, Al Majmaah 11952, Saudi Arabia"}
+  ],
+  "keywords": [
+    "Federated learning",
+    "Intrusion detection",
+    "Industrial Internet of Things",
+    "Non-IID data",
+    "Gradient x Input attribution",
+    "Network security",
+    "FedAvg",
+    "FedProx",
+    "Explainable AI"
+  ],
+  "language": "eng"
+}

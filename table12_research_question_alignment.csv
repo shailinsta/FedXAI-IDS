@@ -1,0 +1,7 @@
+﻿Research question,Experimental evidence,Main finding,Qualification
+RQ1.,Centralised MLP versus FedAvg and FedProx on four datasets,Federated F1 approaches the centralised result on CIC-IoT2023 and Edge-IIoTset,Comparability must be assessed per metric and dataset
+RQ2.,IID versus Dirichlet non-IID partitions,Non-IID results are lower on some datasets and competitive or higher on others,Mean differences alone do not establish statistical significance
+RQ3.,"Experiments with 5, 10 and 20 clients",No consistent benefit from increasing client count,Cost claims require wall-clock and communication measurements
+RQ4.,Learning curves and update diagnostics,Early gains followed by relative stabilisation,Observations do not constitute formal convergence guarantees
+RQ5.,"Global, class-conditional and IID/non-IID Gradient × Input analyses",Features associated with predictions are identified; some ranking consistency is observed,Attribution does not establish causality
+RQ6.,"Predictive performance, heterogeneity and attribution",Results support further investigation as a research prototype,"Device heterogeneity, network conditions, client dropout and formal privacy remain unvalidated"

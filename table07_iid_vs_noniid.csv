@@ -1,0 +1,8 @@
+﻿Dataset,Metric,FedAvg-IID mean ± SD,FedAvg-NonIID mean ± SD
+CIC-IoT2023,F1-score,0.9950 ± 0.0001,0.9914 ± 0.0022
+CIC-IoT2023,Balanced Accuracy,0.9676 ± 0.0038,0.6659 ± 0.1161
+Edge-IIoTset,F1-score,0.9902 ± 0.0017,0.9908 ± 0.0023
+Edge-IIoTset,ROC-AUC,0.9987 ± 0.0003,0.9985 ± 0.0008
+UNSW-NB15,F1-score,0.8705 ± 0.0014,0.8545 ± 0.0049
+UNSW-NB15,Balanced Accuracy,0.8265 ± 0.0027,0.7933 ± 0.0095
+Custom-Attack-Suite,F1-score,0.8153 ± 0.0002,0.8520 ± 0.0493
